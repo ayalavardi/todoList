@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\TodoApi\\",
+  "WorkspaceRootPath": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|c:\\users\\this user\\desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todoapi\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|c:\\users\\this user\\desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\todoapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|c:\\users\\this user\\desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\todoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|c:\\users\\this user\\desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|c:\\users\\this user\\desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\todoapi\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|solutionrelative:tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|c:\\users\\this user\\desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todoapi\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|c:\\users\\this user\\desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,23 +39,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-20T13:36:04.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T13:34:53.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAC4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:50:00.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-20T10:43:48.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ToDoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\TodoApi\\ToDoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\ToDoDbContext.cs",
               "RelativeDocumentMoniker": "ToDoDbContext.cs",
-              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\TodoApi\\ToDoDbContext.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\ToDoDbContext.cs",
               "RelativeToolTip": "ToDoDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T10:24:32.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\TodoApi\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\TodoApi\\Item.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todos project\\TodoApi\\Item.cs",
               "RelativeToolTip": "Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

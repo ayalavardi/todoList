@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DSrcnQRg5t/0CV7SLccWYrPpkOJF0XwVtoUym4PFzkcli0UWMXcz4vZfLh8s1VQjKo7P/f/JoxsVeYwn1Gag0g==",
+  "dgSpecHash": "F22604XN+9bHx5PBGXPIx+QVQdqz/+akLSvMxNps52Z6dptzaAHLshMdcxdskFnLWYydhNMEQqIvjRqUh381bw==",
   "success": true,
   "projectFilePath": "C:\\Users\\This User\\Desktop\\תיכנות\\practicode\\todos project\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
@@ -38,6 +38,7 @@
     "C:\\Users\\This User\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\This User\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\This User\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\This User\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\This User\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\This User\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
