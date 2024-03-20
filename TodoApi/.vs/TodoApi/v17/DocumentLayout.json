@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|c:\\users\\this user\\desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todoapi\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|solutionrelative:tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|c:\\users\\this user\\desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\todoapi\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040A73C1-A071-4116-9F8A-325FE0116365}|TodoApi.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\TodoApi\\ToDoDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoDbContext.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\TodoApi\\ToDoDbContext.cs",
+              "RelativeToolTip": "ToDoDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:24:32.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\TodoApi\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\practicode\\TodoApi\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:24:27.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

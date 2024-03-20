@@ -1,0 +1,54 @@
+.login {
+    width: 300px;
+    margin: auto;
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #000000;
+    float: left;
+    margin: 20px;
+    box-shadow: 2px 6px 5px rgba(0, 0, 0, 0.3);
+
+}
+
+label {
+    font-size: large;
+}
+
+input {
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+}
+
+.btns {
+    padding: 8px 8px;
+    border: 1px solid #59ff00;
+    background-color: #00ff1ab0;
+    border-radius: 4px;
+    width: 95px;
+    text-align: center;
+    direction: rtl;
+    margin: 5px;
+}
+
+.btns:hover {
+    border: 1px solid #000000;
+    background-color: #00ff1ae9;
+}
+select{
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 300px;
+}
+.wraped{
+    width: 1100px;
+    margin: auto;
+}
+.selected-option {
+    background-color: rgb(0, 255, 0); /* כאשר האופציה נבחרת, צבע הרקע יהיה ירוק */
+  }

@@ -1,0 +1,26 @@
+.odot {
+    border: 2px solid black;
+    margin-top: 100px;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 2px 6px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+.weanmil{
+    border: 2px solid black;
+    margin: 30px;
+    padding: 10px;
+    direction: rtl;
+    box-shadow: 2px 6px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+.articlew{
+    float: left;
+}
+.articlel{
+    float: right;
+
+}
+h2{
+    float: left;
+}
